@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/DreamOS - Complete OS UI/Scenes/Desktop.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
