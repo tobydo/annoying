@@ -59,3 +59,10 @@ sysinfo.txt
 crashlytics-build.properties
 
 AnnoyingClientSimulator/Temp/UnityLockfile
+AnnoyingClientSimulator/Library/ArtifactDB
+AnnoyingClientSimulator/Library/SourceAssetDB
+AnnoyingClientSimulator/Logs/AssetImportWorker0-prev.log
+AnnoyingClientSimulator/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+AnnoyingClientSimulator/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+AnnoyingClientSimulator/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+AnnoyingClientSimulator/Temp/workerlic
