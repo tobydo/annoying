@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/DreamOS - Complete OS UI/Scenes/Desktop.unity
+- path: Assets/Scenes/DrawingPrototype.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
