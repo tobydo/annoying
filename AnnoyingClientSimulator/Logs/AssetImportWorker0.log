@@ -602,3 +602,4 @@ Received Import Request.
 Start importing Assets/Desktop/desktop_messy file icons 1.png using Guid(bfc246794bc2cdd41bd41c6545fb4087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5298fca52411f0f8de8178f4bd38acdd') in 0.016449 seconds 
   Import took 0.019334 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
